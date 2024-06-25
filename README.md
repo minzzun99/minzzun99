@@ -17,7 +17,7 @@
 
 
 <div align=center><h1>🔨 Skills 🔨</h1></div>
-<div align=center>
+<div align=center width="100%">
     
 <a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
