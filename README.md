@@ -19,7 +19,6 @@
 <div align=center><h1>🔨 Skills 🔨</h1></div>
 <div align=center>
     
-### Platforms & Languages
 <a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
