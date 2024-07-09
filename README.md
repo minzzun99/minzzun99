@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminzzun99&count_bg=%230054C1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang%20%20Min%20Jun&fontSize=90" style="width: 94%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20%20%20%20I'm%20%20Min%20Jun&fontSize=90" style="width: 94%;" />
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzzun99&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
