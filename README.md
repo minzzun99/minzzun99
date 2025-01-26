@@ -20,8 +20,9 @@
 
  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:skg06123@naver.com)](mailto:skg06123@naver.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmg9013@gmail.com)](mailto:kmg9013@gmail.com)
+ <!--
  <a href="https://minzzun.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://minzzun.tistory.com/"/></a>
- 
+ -->
 </div>
 
 ***
