@@ -13,7 +13,7 @@
 
 ***
 
-<div align=center width="100%">
+<div align=center width="99%">
 
 # :mailbox_with_mail: Contacts
 
