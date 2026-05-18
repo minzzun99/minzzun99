@@ -47,3 +47,10 @@
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=skg06123&theme=warm)](https://solved.ac/profile/skg06123)
 </div>
 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minzzun99&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minzzun99"
+  width="600"
+  height="300"
+/>
+</a>
